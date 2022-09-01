@@ -1,0 +1,40 @@
+F:\cppsource\LOG\log.cpp 2022-08-20 00:00:13 : Start Logging
+[DEBUG] F:\cppsource\LOG\log.cpp 2022-08-20 00:00:13 : There is a bug.
+[INFO] F:\cppsource\LOG\log.cpp 2022-08-20 00:00:13 : Please read this information.
+[WARNING] F:\cppsource\LOG\log.cpp 2022-08-20 00:00:13 : Be attention.
+[ERROR] F:\cppsource\LOG\log.cpp 2022-08-20 00:00:13 : ERROR£¡
+F:\cppsource\LOG\log.cpp 2022-08-20 00:00:28 : Start Logging
+[DEBUG] F:\cppsource\LOG\log.cpp 2022-08-20 00:00:28 : There is a bug.
+[INFO] F:\cppsource\LOG\log.cpp 2022-08-20 00:00:28 : Please read this information.
+[WARNING] F:\cppsource\LOG\log.cpp 2022-08-20 00:00:28 : Be attention.
+[ERROR] F:\cppsource\LOG\log.cpp 2022-08-20 00:00:28 : ERROR£¡
+F:\cppsource\LOG\log.cpp 2022-08-20 00:00:37 : Start Logging
+[DEBUG] F:\cppsource\LOG\log.cpp 2022-08-20 00:00:37 : There is a bug.
+[INFO] F:\cppsource\LOG\log.cpp 2022-08-20 00:00:37 : Please read this information.
+[WARNING] F:\cppsource\LOG\log.cpp 2022-08-20 00:00:37 : Be attention.
+[ERROR] F:\cppsource\LOG\log.cpp 2022-08-20 00:00:37 : ERROR£¡
+F:\cppsource\LOG\log.cpp 2022-08-20 00:00:44 : Start Logging
+[DEBUG] F:\cppsource\LOG\log.cpp 2022-08-20 00:00:44 : There is a bug.
+[INFO] F:\cppsource\LOG\log.cpp 2022-08-20 00:00:44 : Please read this information.
+[WARNING] F:\cppsource\LOG\log.cpp 2022-08-20 00:00:44 : Be attention.
+[ERROR] F:\cppsource\LOG\log.cpp 2022-08-20 00:00:44 : ERROR£¡
+F:\cppsource\LOG\log.cpp 2022-08-20 00:24:35 : Start Logging
+[DEBUG] F:\cppsource\LOG\log.cpp 2022-08-20 00:24:35 : There is a bug.
+[INFO] F:\cppsource\LOG\log.cpp 2022-08-20 00:24:35 : Please read this information.
+[WARNING] F:\cppsource\LOG\log.cpp 2022-08-20 00:24:35 : Be attention.
+[ERROR] F:\cppsource\LOG\log.cpp 2022-08-20 00:24:35 : ERROR£¡
+F:\cppsource\LOG\log.cpp 2022-08-20 00:27:19 : Start Logging
+[DEBUG] F:\cppsource\LOG\log.cpp 2022-08-20 00:27:19 : There is a bug.
+[INFO] F:\cppsource\LOG\log.cpp 2022-08-20 00:27:19 : Please read this information.
+[WARNING] F:\cppsource\LOG\log.cpp 2022-08-20 00:27:19 : Be attention.
+[ERROR] F:\cppsource\LOG\log.cpp 2022-08-20 00:27:19 : ERROR£¡
+F:\cppsource\LOG\log.cpp 2022-08-20 00:28:45 : Start Logging
+[DEBUG] F:\cppsource\LOG\log.cpp 2022-08-20 00:28:45 : There is a bug.
+[INFO] F:\cppsource\LOG\log.cpp 2022-08-20 00:28:45 : Please read this information.
+[WARNING] F:\cppsource\LOG\log.cpp 2022-08-20 00:28:45 : Be attention.
+[ERROR] F:\cppsource\LOG\log.cpp 2022-08-20 00:28:45 : ERROR£¡
+F:\cppsource\LOG\log.cpp 2022-08-20 00:32:07 : Start Logging
+[DEBUG] F:\cppsource\LOG\log.cpp 2022-08-20 00:32:07 : There is a bug.
+[INFO] F:\cppsource\LOG\log.cpp 2022-08-20 00:32:07 : Please read this information.
+[WARNING] F:\cppsource\LOG\log.cpp 2022-08-20 00:32:07 : Be attention.
+[ERROR] F:\cppsource\LOG\log.cpp 2022-08-20 00:32:07 : ERROR£¡
